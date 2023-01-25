@@ -10,7 +10,7 @@ const Contact = () => {
 
     const handleSubmit = () => {
       window.open(
-        `mailto:$vivekmaddeshiyaiet@gmail.com?subject=${encodeURIComponent(
+        `mailto:vivekmaddeshiyaiet@gmail.com?subject=${encodeURIComponent(
           subject
         )}&body=${encodeURIComponent(name)} (${encodeURIComponent(
           email
